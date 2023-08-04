@@ -27,7 +27,7 @@ Demographic data collection,Radio button,06. Which situation describes you best?
 ,,,I am an entrepreneur,,Olen ettevõtja
 ,,,I am a volunteer,,Olen vabatahtlik
 ,,,Other (Text),,Muu (tekst)
-SQ1 (Awareness),MCQ,"07. From the following, please mark the public employment service (PES) online self-service environments you have used before.",Tootukassa (e-tootukassa),"07. Palun märgi, millisete Tööhõiveametite internetipõhiseid iseteenindusplatvorme oled varem kasutanud",Töötukassa (e-töötukassa)
+Awareness,MCQ,"07. From the following, please mark the public employment service (PES) online self-service environments you have used before.",Tootukassa (e-tootukassa),"07. Palun märgi, millisete Tööhõiveametite internetipõhiseid iseteenindusplatvorme oled varem kasutanud",Töötukassa (e-töötukassa)
 ,,,Europass,,Europass
 ,,,EURES,,EURES
 ,,,EURAXESS,,EURAXESS
@@ -93,7 +93,7 @@ Challenges,MCQ,22. How frequently do you check the e-tootukassa self-service env
 ,,,Weekly,,Iga nädal
 ,,,Once a month,,Kord kuus
 ,,,Not often,,Harva
-SQ2 (Challenges),Text,23. What challenges have you experienced in the e-tootukassa self-service environment?,,23. Millisete probleemidega oled Töötukassa süsteemi kasutades kokku puutunud?,
+Challenges,Text,23. What challenges have you experienced in the e-tootukassa self-service environment?,,23. Millisete probleemidega oled Töötukassa süsteemi kasutades kokku puutunud?,
 Expectations,Radio button,"24. Please indicate your level of satisfaction with the e-tootukassa self-service environment on a scale of 0 to 5.
 (0- lowest satisfaction, 5-highest satisfaction)","0, 1, 2, 3, 4, 5, N/A","24. Vahemikus 0-5, palun hinda, kui rahul oled Töötukassa teenustega? 
 (0 - ei ole üldse rahul, 5 - olen väga rahul)","0, 1, 2, 3, 4, 5, N/A"
