@@ -1,0 +1,101 @@
+Data category / Research question,Question type,Survey question,Answers provided,Survey question - ESTONIAN TRANSLATION,Answers provided - ESTONIAN TRANSLATION
+Demographic data collection,Radio button,01. Please enter your current country of residence,Country list sheet,"01. Palun sisesta riik, kus praegu elad",Riikide nimekiri
+Demographic data collection,Radio button,02. What is your country of origin?,Country list sheet,02. Millisest riigist Sa pärit oled?,Riikide nimekiri
+Demographic data collection,Radio button,03. What is your relationship with Estonia?,I was born in Estonia / My parents are from Estonia,03. Kuidas oled Eestiga seotud?,Sündisin Eestis / Mu vanemad on Eestist
+,,,I came to study in Estonia,,Tulin Eestisse õppima
+,,,I came to work in Estonia,,Tulin Eestisse tööle
+,,,I came with my family,,Tulin Eestisse koos perega
+,,,Other (Text),,Muu (tekst)
+Demographic data collection,Radio button,04. Please indicate your age category,Below 15,04. Palun märgi oma vanusevahemik,Noorem kui 15
+,,,15-24,,15-24
+,,,25-34,,25-34
+,,,35-54,,35-54
+,,,55-64,,55-64
+,,,Above 65,,Vanem kui 65
+Demographic data collection,Radio button,05. Please select your highest education level,Primary education,05. Milline on Sinu kõrgeim omandatud haridustase?,Põhiharidus
+,,,Vocational education only,,Kutseharidus põhihariduse baasil
+,,,Secondary education,,Keskharidus
+,,,Secondary education + Vocational education,,Kutseharidus keskhariduse baasil
+,,,Bachelor's degree,,Bakalaureuse kraad
+,,,Master's degree,,Magistrikraad
+,,,Doctorate,,Doktorikraad
+Demographic data collection,Radio button,06. Which situation describes you best?,I am a student,06. Milline väide kirjeldab Sind kõige paremini?,Olen õpilane
+,,,I am currently employed,,Hetkel töötan
+,,,I am currently employed but looking for another job,,"Hetkel töötan, kuid otsin uut töökohta"
+,,,I am unemployed and looking for a job,,Hetkel töötu ja otsin töökohta
+,,,I am unemployed and I do not look for a job,,Hetkel töötu ja ei otsi töökohta
+,,,I am an entrepreneur,,Olen ettevõtja
+,,,I am a volunteer,,Olen vabatahtlik
+,,,Other (Text),,Muu (tekst)
+SQ1 (Awareness),MCQ,"07. From the following, please mark the public employment service (PES) online self-service environments you have used before.",Tootukassa (e-tootukassa),"07. Palun märgi, millisete Tööhõiveametite internetipõhiseid iseteenindusplatvorme oled varem kasutanud",Töötukassa (e-töötukassa)
+,,,Europass,,Europass
+,,,EURES,,EURES
+,,,EURAXESS,,EURAXESS
+,,,Other (Text),,Muu (tekst)
+,,,None of the above,,Mitte ükski eelnevaist
+SQ1 (Awareness),Text ,08. What was the purpose of using those platforms?,An open-ended question,08. Mis eesmärgiga neid platvorme kasutasid?,
+SQ3 (Expectations),MCQ,"09. Which of the following activities are most important for you on such a platform?
+(Select the top 3 you find as most important)",Assistance to find a new job,"09. Millised järgmistest võimalustest on Sinu jaoks selliste platvormide juures olulisimad?
+Märgi kolm endale olulisimat",Abi uue töökoha leidmisel
+,,,To apply for a monthly allowance from the public employment service,,Pakutavale töötutoetusele kandideerimine
+,,,Assistance to finding suitable training,,Abi sobiva koolituse leidmisel
+,,,Guidance about demanding skills in the near future,,Suunamine ja informatsioon lähitulevikus vajatavatest töökohtadest
+,,,Opportunity to apply to training free of charge,,Võimalus kandideerida tasuta koolitustele
+,,,Opportunity to learn a new skill to switch my job regardless if it is free or not,,"Võimalus õppida uus oskus töökoha vahetamiseks, olenemata sellest, kas seda saab tasuta teha"
+SQ1 (Awareness),Y/N,10. Have you ever used the Unemployment Insurance Fund (e-tootukassa) self-service environment in Estonia?,Yes / No,10. Kas oled kunagi Eesti Töötukassa iseteeninduskeskkonda kasutanud?,Jah / Ei
+,,"If 10=YES>11, If 10=NO>Email and End",,,
+,"If the participant has used the Tootukassa system before, following questions will be given",,,,
+Background,MCQ,11. How many times have you used the e-tootukassa self-service environment?,One time,11. Mitu korda oled e-töötukassa iseteeninduskeskkonda kasutanud?,Ühe korra
+,,,Multiple times,,Mitu korda
+,,11.1 How did you hear about the e-tootukassa self-service environment,From Social media,Kuidas sa kuulsid E-tootukassa iseteeninduskeskkonnast?,Sotsiaalmeediast
+,,,From TV advertisements,,Telereklaamidest
+,,,From a friend,,Sõbralt
+,,,From News channels or newspaper,,Uudistekanalitest või ajalehest
+,,,Other,,Muu
+Background,Radio ,12. What is your main motivation for using the e-tootukassa self-service environment?,To find a job,12. Mis on olnud Sinu peamine eesmärk Töötukassa teenuste kasutamiseks?,Tööotsing
+,,,To find a training program to upskill myself,,Koolitusvõimalused uute oskuste omandamiseks
+,,,Other (Text),,Muu (tekst)
+Background,Radio,13. Please let us know what will drive your commitment to lifelong learning.,I am learning to pursue career development and promotions,"13. Palun kirjelda, mis motiveerib Sind end täiendama.",Õpin karjäärivõimaluste ja edutamiste jaoks
+,,,I love to keep learning new things even though it does not directly help in my job,,"Mulle meeldib midagi uut õppida, kuigi see otseselt minu tööle kaasa ei aita"
+,,,I do not enjoy the hassle of learning but I need to keep my career safe,,"Mulle tegelikult ei meeldi õppida, aga vajan seda, et säilitada oma karjäär"
+,,,Other (Text),,Muu (tekst)
+Background,Text,14. How many training courses funded by the Estonian Unemployment Insurance Fund have you taken?,,14. Mitmel Töötukassa poolt tasutud koolitusel Sa osalenud oled?,
+Background,Y/N,15. Have you received any training recommendations from the e-tootukassa self-service environment?,Yes / No,15. Kas Sulle on Töötukassa poolt koolitusi soovitatud?,
+,,"If 15=YES>15.1, If 15=NO>17",,,
+SQ2 (Challenges),MCQ,15.1 How did you find training programs suitable for you in the e-tootukassa self-service environment?,My consultant suggested me the program and I agreed to follow it,15.1. Kuidas Töötukassa koolitust valisid?,Minu nõustaja soovitas koolitust ja otsustasin sellel osaleda
+,,,I and my consultant together discussed my interests and then they assisted me in enrolling in the program.,,Arutasime nõustajaga minu huve ja pärast seda soovitas ta mulle koolitusi
+,,,I told my consultant what I wanted to learn and then they assisted me in enrolling in the program.,,"Ütlesin oma nõustajale, mida soovin õppida, ja ta aitas mul koolitusega liituda"
+,Text,,Other...,,Muu...
+SQ2 (Challenges),Text,"15.2 Please explain more about your experience.
+Eg: How was the process of signing up for the training?",,"15.2. Räägi oma kogemusest pikemalt. 
+Nt: Kuidas koolitusele saamise protsess oli?",
+SQ2 (Challenges),Y/N,15.3 Did you complete the training course you started in the e-tootukassa self-service environment?,Yes / No,"15.3. Kas lõpetasid koolituse, millele end Töötukassa kaudu kirja panid?",Jah / Ei
+,,"If 15.3=NO>15.3.1, If 15.3=YES>15.4",,,
+,Text,"15.3.1 If your response to the previous question was NO, kindly explain your decision to stop participating in the program.",,"15.3.1. Kui vastasid eelmisele küsimusele EI, palun kirjuta, mis oli selle põhjuseks.",
+,,Continue to 16 after 15.3.1,,,
+SQ2 (Challenges),Y/N,15.4 Did the training program benefit your job search?,Yes / No,15.4. Kas koolitus aitas Sul tööd leida?,Jah / Ei
+,,"YES, NO > 16",,,
+SQ2 (Challenges),Radio,16. Did you find the job opportunity through the e-tootukassa self-service environment or did you find it from another source?,Through the e-tootukassa self-service environment,16. Kas leidsid tööpakkumise läbi e-töötukassa iseteeninduskeskkonna või mõnest muust allikast?,Läbi e-töötukassa iseteeninduskeskkonna
+,,,From another source,,Muust allikast
+,,Continue to 17,,,
+SQ2 (Challenges),Y/ N,17. Are you happy with the job-searching assistance you got from the e-tootukassa self-service environment?,Yes / No,17. Kas jäid tööd otsides Töötukassa iseteeninduskeskkonnaga rahule?,Jah / Ei
+,,,,,
+SQ2 (Challenges),Text,17.1 Please describe your experience with the e-tootukassa self-service environment service you received.,,17.1 Palun kirjelda enda kogemust,
+SQ2 (Challenges),Radio button,18. How long did it take you to find a job using the e-tootukassa self-service platform?,Less than 1 month,18. Mitu kuud Sul kulus et Töötukassa kaudu töö leida?,Vähem kui 1 kuu
+,,,Between 1 and 6 months,,1-6 kuud
+,,,More than 6 months,,Üle 6 kuu
+,,,I did not find a job through the e-tootukassa self-service environment,,Ei leidnud Töötukassa kaudu tööd
+SQ2 (Challenges),Text,19. How many job recommendations you have received per month from the e-tootukassa self-service environment?,,19. Umbes mitu tööpakkumist kuus said e-töötukassa iseteeninduskeskkonda kasutades?,
+SQ2 (Challenges),Text,20. How many job applications have you submitted from the e-tootukassa self-service environment?,,20. Mitmele töökohale oled e-töötukassa iseteeninduse kaudu kandideerinud?,
+,,,,,
+SQ2 (Challenges),Y/N,21. Do you keep your resume up to date in the e-tootukassa self-service environment?,Yes / No,21. Kas hoiad oma elulookirjelduse Töötukassa süsteemis uuendatuna?,
+SQ2 (Challenges),MCQ,22. How frequently do you check the e-tootukassa self-service environment to see what positions are available?,Daily,22. Kui tihti külastad Töötukassa süsteemi uute tööpakkumiste vaatamiseks?,Iga päev
+,,,Weekly,,Iga nädal
+,,,Once a month,,Kord kuus
+,,,Not often,,Harva
+SQ2 (Challenges),Text,23. What challenges have you experienced in the e-tootukassa self-service environment?,,23. Millisete probleemidega oled Töötukassa süsteemi kasutades kokku puutunud?,
+SQ3 (Expectations),Radio button,"24. Please indicate your level of satisfaction with the e-tootukassa self-service environment on a scale of 0 to 5.
+(0- lowest satisfaction, 5-highest satisfaction)","0, 1, 2, 3, 4, 5, N/A","24. Vahemikus 0-5, palun hinda, kui rahul oled Töötukassa teenustega? 
+(0 - ei ole üldse rahul, 5 - olen väga rahul)","0, 1, 2, 3, 4, 5, N/A"
+SQ3 (Expectations),Text,25. What aspects of the e-tootukassa self-service environment would you suggest being improved?,,25. Mida sooviksid e-töötukassa iseteeninduskeskkonnas parandada?,
+SQ3 (Expectations),Text,26. Please let us know what features you believe are essential for the e-tootukassa self-service environment to be added in the future.,,"26. Palun kirjuta, mis on Sinu arvates e-töötukassa iseteeniduskeskkonnast veel puudu",
